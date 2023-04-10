@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @michaelatimore
-- 👀 I’m interested in becoming a junior web developer    
-- 🌱 I’m currently learning HTML, JavaScript, CSS
-- 💞️ I’m looking to collaborate on how to build my skillset
+- 👋 Hi, I’m Michael A. Latimore
+- 👀 I’m interested in becoming a software engineer.    
+- 🌱 I’m currently learning Java.
+- HTML, CSS, Javasript, source control, Pyhton, Java, SQL.
+- 💞️ I’m looking to collaborate on how to build my skillset.
 - 📫 How to reach me michaelatimore@gmail.com
 
 <!---
